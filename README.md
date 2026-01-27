@@ -1,4 +1,4 @@
-#Data Analysis for LLM-generated SAS Code Rating
+# Data Analysis for LLM-generated SAS Code Rating
 
 This repository contains R and Python code used for the data analysis in the paper "Performance Evaluation of Large Language Models in Statistical Programming with SAS" by Xinyi Song, Kexin Xie, Lina Lee, Ruizhe Chen, Jared Clark, Hao He, Haoran He, Jie Min, Xinlei Zhang, Simin Zheng, Zhiyang Zhang, Xinwei Deng, and Yili Hong.
 
@@ -6,7 +6,7 @@ This repository also provides the original individual-level rating scores. The S
 
 This repository includes a README.md, data files and code files.  
 
-##Data
+## Data
 
 The original individual-level rating scores are stored in three .csv files: group1_rating.csv, group2_rating.csv, and group3_rating.csv. The meaning of the columns are:
   
@@ -18,7 +18,7 @@ The labels C1_1, C1_2, C1_3, C1_4, C1_5, C2_1, C2_2, C3_1, C3_2, and C3_3 corres
 
 
 
-##Code 
+## Code 
 
 There are five files in total for the R and Python code.
 
